@@ -1,0 +1,6 @@
+@CyroVerseAPI_HostAddress = http://localhost:5002
+
+GET {{CyroVerseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

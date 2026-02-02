@@ -1,0 +1,17 @@
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\bin\Debug\net10.0\CyroTechClient.exe
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\bin\Debug\net10.0\CyroTechClient.deps.json
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\bin\Debug\net10.0\CyroTechClient.runtimeconfig.json
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\bin\Debug\net10.0\CyroTechClient.dll
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\bin\Debug\net10.0\CyroTechClient.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.AssemblyInfoInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.AssemblyInfo.cs
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTech.4F402158.Up2Date
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.dll
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\refint\CyroTechClient.dll
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\CyroTechClient.genruntimeconfig.cache
+C:\Users\fatma\OneDrive\Masaüstü\Aliş\CyroVerseAPI\CyroTechClient\obj\Debug\net10.0\ref\CyroTechClient.dll
